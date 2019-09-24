@@ -9,7 +9,7 @@ This app is a POC using NodeJS, Express and MongoDB.
 * Express 4.15.3
 * Mongoose 4.11.1
 
-## Enviroment with Docker
+## How to Install
 
 It's recommended that you have Docker installed.
 
